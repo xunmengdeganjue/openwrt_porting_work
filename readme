@@ -1,0 +1,10 @@
+
+
+
+The trunk_SDK is from :
+	git clone git://git.openwrt.org/openwrt.git 
+
+The packages if from :
+	git clone git://git.openwrt.org/packages.git
+
+	
