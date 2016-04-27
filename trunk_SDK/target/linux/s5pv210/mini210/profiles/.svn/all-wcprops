@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/156/trunk/target/linux/s5pv210/mini210/profiles
+END
+102-minimal.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/156/trunk/target/linux/s5pv210/mini210/profiles/102-minimal.mk
+END
+103-paroli.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/156/trunk/target/linux/s5pv210/mini210/profiles/103-paroli.mk
+END
+100-qtopia.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/156/trunk/target/linux/s5pv210/mini210/profiles/100-qtopia.mk
+END
+101-router.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/156/trunk/target/linux/s5pv210/mini210/profiles/101-router.mk
+END

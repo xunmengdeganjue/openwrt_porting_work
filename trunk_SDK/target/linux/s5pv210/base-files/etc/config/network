@@ -1,0 +1,17 @@
+# Copyright (C) 2008 OpenWrt.org
+
+config interface loopback
+        option ifname   lo
+        option proto    static
+        option ipaddr   127.0.0.1
+        option netmask  255.0.0.0
+
+config interface lan
+#liqiyuan        option type     bridge
+        option ifname   eth0
+        option proto    static
+        option ipaddr   10.10.83.41
+        option netmask  255.255.248.0
+	option dns 	10.15.3.222
+	option gateway	10.10.80.1
+

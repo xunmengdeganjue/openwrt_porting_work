@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/base-files/lib/preinit
+END
+05_reset_button_s3c24xx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/base-files/lib/preinit/05_reset_button_s3c24xx
+END

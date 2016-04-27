@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/base-files/etc
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/base-files/etc/inittab
+END
+diag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/base-files/etc/diag.sh
+END

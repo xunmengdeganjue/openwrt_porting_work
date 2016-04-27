@@ -1,0 +1,37 @@
+10
+
+dir
+1116
+http://openwrt-for-embedded.googlecode.com/svn/trunk/target/linux/s5pv210/base-files
+http://openwrt-for-embedded.googlecode.com/svn
+
+
+
+2012-12-15T06:51:17.500632Z
+1005
+richard.nee.cn@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2c85d147-4e9f-24e4-8d27-0cf4eed011c9
+
+sbin
+dir
+
+etc
+dir
+
+lib
+dir
+

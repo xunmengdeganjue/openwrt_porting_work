@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/tiny210/base-files/etc/config
+END
+fstab
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/tiny210/base-files/etc/config/fstab
+END
+network
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/tiny210/base-files/etc/config/network
+END

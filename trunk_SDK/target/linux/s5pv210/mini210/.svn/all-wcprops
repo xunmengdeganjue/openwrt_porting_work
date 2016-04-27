@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/156/trunk/target/linux/s5pv210/mini210
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/mini210/target.mk
+END
+config-2.6.35
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/mini210/config-2.6.35
+END

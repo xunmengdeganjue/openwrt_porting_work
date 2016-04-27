@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1005/trunk/target/linux/s5pv210
+END
+modules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/56/trunk/target/linux/s5pv210/modules.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/965/trunk/target/linux/s5pv210/Makefile
+END
